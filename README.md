@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HSamiul
 - 👀 I’m interested in finding collaborative programming experience
-- 🌱 I’m currently learning TypeScript and SwiftUI
+- 🌱 I’m currently learning StencilJS and SwiftUI
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: samiulh@andrew.cmu.edu
 
